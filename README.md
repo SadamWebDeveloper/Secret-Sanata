@@ -1,4 +1,4 @@
-# Secret Santa Assignment Generator
+# Secret Santa Generator
 
 This project includes a frontend (built with Vite and React) and a backend (built with Node.js and Express) to process Secret Santa assignments based on uploaded CSV files. Users can upload an employee list and last year’s Secret Santa results, and the application will generate and allow download of the new Secret Santa assignments for the current year.
 
