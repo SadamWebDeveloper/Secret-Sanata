@@ -1,15 +1,15 @@
-# Secret Santa Generator
+# Secret Santa Game Generator
 
-This project includes a frontend (built with Vite and React) and a backend (built with Node.js and Express) to process Secret Santa assignments based on uploaded CSV files. Users can upload an employee list and last year’s Secret Santa results, and the application will generate and allow download of the new Secret Santa assignments for the current year.
+This project includes a frontend (built with Vite and React) and a backend (built with Node.js and Express) to process Secret Santa game based on uploaded CSV files. Users can upload an employee list and last year’s Secret Santa results, and the application will generate and allow download of the new Secret Santa Game Result for the current year.
 
 <br>
 
 ## Features
 
 <ul>
-  <li><b>Frontend:</b> User interface for uploading CSV files and downloading the generated Secret Santa assignments.</li>
-  <li><b>Backend:</b> Handles file uploads, processes employee and previous Secret Santa data, and generates new assignments in CSV format.</li>
-  <li><b>CSV Download:</b> Provides a link to download the generated assignments CSV.</li>
+  <li><b>Frontend:</b> User interface for uploading CSV files and downloading the generated Secret Santa Game Result Excel Sheet</li>
+  <li><b>Backend:</b> Handles file uploads, processes employee and previous Secret Santa data, and generates new in CSV format.</li>
+  <li><b>CSV Download:</b> Provides a link to download the generated CSV.</li>
 </ul>
 
 <br>
